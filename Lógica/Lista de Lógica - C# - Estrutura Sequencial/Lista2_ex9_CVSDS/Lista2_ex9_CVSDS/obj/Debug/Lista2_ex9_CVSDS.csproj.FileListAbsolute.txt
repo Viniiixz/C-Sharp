@@ -1,0 +1,14 @@
+C:\Users\Vinicius\Desktop\Lista_2_CVSDS\Lista2_ex9_CVSDS\Lista2_ex9_CVSDS\bin\Debug\Lista2_ex9_CVSDS.exe.config
+J:\Lista_2_CVSDS\Lista2_ex9_CVSDS\Lista2_ex9_CVSDS\bin\Debug\Lista2_ex9_CVSDS.exe.config
+J:\Lista_2_CVSDS\Lista2_ex9_CVSDS\Lista2_ex9_CVSDS\bin\Debug\Lista2_ex9_CVSDS.exe
+J:\Lista_2_CVSDS\Lista2_ex9_CVSDS\Lista2_ex9_CVSDS\bin\Debug\Lista2_ex9_CVSDS.pdb
+J:\Lista_2_CVSDS\Lista2_ex9_CVSDS\Lista2_ex9_CVSDS\obj\Debug\Lista2_ex9_CVSDS.csprojResolveAssemblyReference.cache
+J:\Lista_2_CVSDS\Lista2_ex9_CVSDS\Lista2_ex9_CVSDS\obj\Debug\Lista2_ex9_CVSDS.exe
+J:\Lista_2_CVSDS\Lista2_ex9_CVSDS\Lista2_ex9_CVSDS\obj\Debug\Lista2_ex9_CVSDS.pdb
+C:\Users\Carlos Vinícius\Desktop\aulasLogica-Csharp\Lista de Lógica - C# - Estrutura Sequencial\Lista2_ex9_CVSDS\Lista2_ex9_CVSDS\bin\Debug\Lista2_ex9_CVSDS.exe.config
+C:\Users\Carlos Vinícius\Desktop\aulasLogica-Csharp\Lista de Lógica - C# - Estrutura Sequencial\Lista2_ex9_CVSDS\Lista2_ex9_CVSDS\bin\Debug\Lista2_ex9_CVSDS.exe
+C:\Users\Carlos Vinícius\Desktop\aulasLogica-Csharp\Lista de Lógica - C# - Estrutura Sequencial\Lista2_ex9_CVSDS\Lista2_ex9_CVSDS\bin\Debug\Lista2_ex9_CVSDS.pdb
+C:\Users\Carlos Vinícius\Desktop\aulasLogica-Csharp\Lista de Lógica - C# - Estrutura Sequencial\Lista2_ex9_CVSDS\Lista2_ex9_CVSDS\obj\Debug\Lista2_ex9_CVSDS.csprojAssemblyReference.cache
+C:\Users\Carlos Vinícius\Desktop\aulasLogica-Csharp\Lista de Lógica - C# - Estrutura Sequencial\Lista2_ex9_CVSDS\Lista2_ex9_CVSDS\obj\Debug\Lista2_ex9_CVSDS.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Vinícius\Desktop\aulasLogica-Csharp\Lista de Lógica - C# - Estrutura Sequencial\Lista2_ex9_CVSDS\Lista2_ex9_CVSDS\obj\Debug\Lista2_ex9_CVSDS.exe
+C:\Users\Carlos Vinícius\Desktop\aulasLogica-Csharp\Lista de Lógica - C# - Estrutura Sequencial\Lista2_ex9_CVSDS\Lista2_ex9_CVSDS\obj\Debug\Lista2_ex9_CVSDS.pdb

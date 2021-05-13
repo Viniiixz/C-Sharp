@@ -1,0 +1,6 @@
+C:\Users\Aluno\Desktop\Lista_2_CVSDS\Lista2_ex4_CV\Lista2_ex4_CV\bin\Debug\Lista2_ex4_CV.exe.config
+C:\Users\Aluno\Desktop\Lista_2_CVSDS\Lista2_ex4_CV\Lista2_ex4_CV\obj\Debug\Lista2_ex4_CV.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Lista_2_CVSDS\Lista2_ex4_CV\Lista2_ex4_CV\bin\Debug\Lista2_ex4_CV.exe
+C:\Users\Aluno\Desktop\Lista_2_CVSDS\Lista2_ex4_CV\Lista2_ex4_CV\bin\Debug\Lista2_ex4_CV.pdb
+C:\Users\Aluno\Desktop\Lista_2_CVSDS\Lista2_ex4_CV\Lista2_ex4_CV\obj\Debug\Lista2_ex4_CV.exe
+C:\Users\Aluno\Desktop\Lista_2_CVSDS\Lista2_ex4_CV\Lista2_ex4_CV\obj\Debug\Lista2_ex4_CV.pdb
