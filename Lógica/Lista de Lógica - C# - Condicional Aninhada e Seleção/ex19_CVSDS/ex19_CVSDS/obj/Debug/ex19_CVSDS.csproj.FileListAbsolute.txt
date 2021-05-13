@@ -1,0 +1,6 @@
+G:\Tec. de programação\Lista3_CVSDS\ex19_CVSDS\ex19_CVSDS\bin\Debug\ex19_CVSDS.exe.config
+G:\Tec. de programação\Lista3_CVSDS\ex19_CVSDS\ex19_CVSDS\bin\Debug\ex19_CVSDS.exe
+G:\Tec. de programação\Lista3_CVSDS\ex19_CVSDS\ex19_CVSDS\bin\Debug\ex19_CVSDS.pdb
+G:\Tec. de programação\Lista3_CVSDS\ex19_CVSDS\ex19_CVSDS\obj\Debug\ex19_CVSDS.csprojResolveAssemblyReference.cache
+G:\Tec. de programação\Lista3_CVSDS\ex19_CVSDS\ex19_CVSDS\obj\Debug\ex19_CVSDS.exe
+G:\Tec. de programação\Lista3_CVSDS\ex19_CVSDS\ex19_CVSDS\obj\Debug\ex19_CVSDS.pdb

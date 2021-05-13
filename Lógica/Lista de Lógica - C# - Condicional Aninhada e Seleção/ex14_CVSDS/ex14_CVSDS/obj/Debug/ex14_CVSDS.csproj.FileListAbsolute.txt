@@ -1,0 +1,9 @@
+J:\Tec. de programação\Lista3_CVSDS\ex14_CVSDS\ex14_CVSDS\bin\Debug\ex14_CVSDS.exe.config
+J:\Tec. de programação\Lista3_CVSDS\ex14_CVSDS\ex14_CVSDS\bin\Debug\ex14_CVSDS.exe
+J:\Tec. de programação\Lista3_CVSDS\ex14_CVSDS\ex14_CVSDS\bin\Debug\ex14_CVSDS.pdb
+J:\Tec. de programação\Lista3_CVSDS\ex14_CVSDS\ex14_CVSDS\obj\Debug\ex14_CVSDS.csprojResolveAssemblyReference.cache
+J:\Tec. de programação\Lista3_CVSDS\ex14_CVSDS\ex14_CVSDS\obj\Debug\ex14_CVSDS.exe
+J:\Tec. de programação\Lista3_CVSDS\ex14_CVSDS\ex14_CVSDS\obj\Debug\ex14_CVSDS.pdb
+G:\Tec. de programação\Lista3_CVSDS\ex14_CVSDS\ex14_CVSDS\bin\Debug\ex14_CVSDS.exe.config
+G:\Tec. de programação\Lista3_CVSDS\ex14_CVSDS\ex14_CVSDS\obj\Debug\ex14_CVSDS.exe
+G:\Tec. de programação\Lista3_CVSDS\ex14_CVSDS\ex14_CVSDS\obj\Debug\ex14_CVSDS.pdb

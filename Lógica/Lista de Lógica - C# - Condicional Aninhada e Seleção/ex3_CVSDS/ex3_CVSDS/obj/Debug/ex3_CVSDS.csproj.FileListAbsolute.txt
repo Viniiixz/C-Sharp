@@ -1,0 +1,5 @@
+E:\Tec. de programação\Lista3_CVSDS\ex3_CVSDS\ex3_CVSDS\bin\Debug\ex3_CVSDS.exe.config
+E:\Tec. de programação\Lista3_CVSDS\ex3_CVSDS\ex3_CVSDS\bin\Debug\ex3_CVSDS.exe
+E:\Tec. de programação\Lista3_CVSDS\ex3_CVSDS\ex3_CVSDS\bin\Debug\ex3_CVSDS.pdb
+E:\Tec. de programação\Lista3_CVSDS\ex3_CVSDS\ex3_CVSDS\obj\Debug\ex3_CVSDS.exe
+E:\Tec. de programação\Lista3_CVSDS\ex3_CVSDS\ex3_CVSDS\obj\Debug\ex3_CVSDS.pdb

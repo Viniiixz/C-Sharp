@@ -1,0 +1,15 @@
+J:\Tec. de programação\Lista3_CVSDS\Lista3_EX1_CVSDS\Lista3_EX1_CVSDS\bin\Debug\Lista3_EX1_CVSDS.exe.config
+J:\Tec. de programação\Lista3_CVSDS\Lista3_EX1_CVSDS\Lista3_EX1_CVSDS\bin\Debug\Lista3_EX1_CVSDS.exe
+J:\Tec. de programação\Lista3_CVSDS\Lista3_EX1_CVSDS\Lista3_EX1_CVSDS\bin\Debug\Lista3_EX1_CVSDS.pdb
+J:\Tec. de programação\Lista3_CVSDS\Lista3_EX1_CVSDS\Lista3_EX1_CVSDS\obj\Debug\Lista3_EX1_CVSDS.csprojResolveAssemblyReference.cache
+J:\Tec. de programação\Lista3_CVSDS\Lista3_EX1_CVSDS\Lista3_EX1_CVSDS\obj\Debug\Lista3_EX1_CVSDS.exe
+J:\Tec. de programação\Lista3_CVSDS\Lista3_EX1_CVSDS\Lista3_EX1_CVSDS\obj\Debug\Lista3_EX1_CVSDS.pdb
+E:\Tec. de programação\Lista3_CVSDS\ex1_CVSDS\Lista3_EX1_CVSDS\bin\Debug\Lista3_EX1_CVSDS.exe.config
+E:\Tec. de programação\Lista3_CVSDS\ex1_CVSDS\Lista3_EX1_CVSDS\obj\Debug\Lista3_EX1_CVSDS.exe
+E:\Tec. de programação\Lista3_CVSDS\ex1_CVSDS\Lista3_EX1_CVSDS\obj\Debug\Lista3_EX1_CVSDS.pdb
+E:\Tec. de programação\Lista3_CVSDS\ex1_CVSDS\Lista3_EX1_CVSDS\obj\Debug\Lista3_EX1_CVSDS.csprojResolveAssemblyReference.cache
+E:\Tec. de programação\Lista3_CVSDS\ex1_CVSDS\Lista3_EX1_CVSDS\bin\Debug\Lista3_EX1_CVSDS.exe
+E:\Tec. de programação\Lista3_CVSDS\ex1_CVSDS\Lista3_EX1_CVSDS\bin\Debug\Lista3_EX1_CVSDS.pdb
+C:\Users\Vinicius\Desktop\Lista3_CVSDS\ex1_CVSDS\Lista3_EX1_CVSDS\bin\Debug\Lista3_EX1_CVSDS.exe.config
+C:\Users\Vinicius\Desktop\Lista3_CVSDS\ex1_CVSDS\Lista3_EX1_CVSDS\obj\Debug\Lista3_EX1_CVSDS.exe
+C:\Users\Vinicius\Desktop\Lista3_CVSDS\ex1_CVSDS\Lista3_EX1_CVSDS\obj\Debug\Lista3_EX1_CVSDS.pdb

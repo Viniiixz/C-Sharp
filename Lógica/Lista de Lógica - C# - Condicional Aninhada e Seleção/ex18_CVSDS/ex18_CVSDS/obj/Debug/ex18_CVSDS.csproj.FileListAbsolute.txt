@@ -1,0 +1,2 @@
+G:\Tec. de programação\Lista3_CVSDS\ex18_CVSDS\ex18_CVSDS\bin\Debug\ex18_CVSDS.exe.config
+G:\Tec. de programação\Lista3_CVSDS\ex18_CVSDS\ex18_CVSDS\obj\Debug\ex18_CVSDS.csprojResolveAssemblyReference.cache

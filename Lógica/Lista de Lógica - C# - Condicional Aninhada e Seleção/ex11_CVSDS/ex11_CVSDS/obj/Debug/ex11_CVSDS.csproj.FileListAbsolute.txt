@@ -1,0 +1,6 @@
+c:\users\aluno\documents\visual studio 2015\Projects\ex11_CVSDS\ex11_CVSDS\bin\Debug\ex11_CVSDS.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\ex11_CVSDS\ex11_CVSDS\bin\Debug\ex11_CVSDS.exe
+c:\users\aluno\documents\visual studio 2015\Projects\ex11_CVSDS\ex11_CVSDS\bin\Debug\ex11_CVSDS.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\ex11_CVSDS\ex11_CVSDS\obj\Debug\ex11_CVSDS.exe
+c:\users\aluno\documents\visual studio 2015\Projects\ex11_CVSDS\ex11_CVSDS\obj\Debug\ex11_CVSDS.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\ex11_CVSDS\ex11_CVSDS\obj\Debug\ex11_CVSDS.csprojResolveAssemblyReference.cache

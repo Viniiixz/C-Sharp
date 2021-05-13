@@ -1,0 +1,7 @@
+J:\Lista_2_CVSDS\Lista2_ex16_CVSDS\Lista2_ex16_CVSDS\bin\Debug\Lista2_ex16_CVSDS.exe.config
+E:\Lista_2_CVSDS\Lista2_ex16_CVSDS\Lista2_ex16_CVSDS\bin\Debug\Lista2_ex16_CVSDS.exe.config
+E:\Lista_2_CVSDS\Lista2_ex16_CVSDS\Lista2_ex16_CVSDS\bin\Debug\Lista2_ex16_CVSDS.exe
+E:\Lista_2_CVSDS\Lista2_ex16_CVSDS\Lista2_ex16_CVSDS\bin\Debug\Lista2_ex16_CVSDS.pdb
+E:\Lista_2_CVSDS\Lista2_ex16_CVSDS\Lista2_ex16_CVSDS\obj\Debug\Lista2_ex16_CVSDS.csprojResolveAssemblyReference.cache
+E:\Lista_2_CVSDS\Lista2_ex16_CVSDS\Lista2_ex16_CVSDS\obj\Debug\Lista2_ex16_CVSDS.exe
+E:\Lista_2_CVSDS\Lista2_ex16_CVSDS\Lista2_ex16_CVSDS\obj\Debug\Lista2_ex16_CVSDS.pdb

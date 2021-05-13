@@ -1,0 +1,6 @@
+C:\Users\Vinicius\Desktop\Lista3_CVSDS\ex7_CVSDS\ex7_CVSDS\bin\Debug\ex7_CVSDS.exe.config
+C:\Users\Vinicius\Desktop\Lista3_CVSDS\ex7_CVSDS\ex7_CVSDS\bin\Debug\ex7_CVSDS.exe
+C:\Users\Vinicius\Desktop\Lista3_CVSDS\ex7_CVSDS\ex7_CVSDS\bin\Debug\ex7_CVSDS.pdb
+C:\Users\Vinicius\Desktop\Lista3_CVSDS\ex7_CVSDS\ex7_CVSDS\obj\Debug\ex7_CVSDS.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Desktop\Lista3_CVSDS\ex7_CVSDS\ex7_CVSDS\obj\Debug\ex7_CVSDS.exe
+C:\Users\Vinicius\Desktop\Lista3_CVSDS\ex7_CVSDS\ex7_CVSDS\obj\Debug\ex7_CVSDS.pdb

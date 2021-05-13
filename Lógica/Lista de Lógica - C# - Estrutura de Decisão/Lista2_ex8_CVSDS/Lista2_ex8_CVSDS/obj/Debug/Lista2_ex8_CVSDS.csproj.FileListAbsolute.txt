@@ -1,0 +1,12 @@
+C:\Users\Vinicius\Desktop\Lista_2_CVSDS\Lista2_ex8_CVSDS\Lista2_ex8_CVSDS\bin\Debug\Lista2_ex8_CVSDS.exe.config
+C:\Users\Vinicius\Desktop\Lista_2_CVSDS\Lista2_ex8_CVSDS\Lista2_ex8_CVSDS\bin\Debug\Lista2_ex8_CVSDS.exe
+C:\Users\Vinicius\Desktop\Lista_2_CVSDS\Lista2_ex8_CVSDS\Lista2_ex8_CVSDS\bin\Debug\Lista2_ex8_CVSDS.pdb
+C:\Users\Vinicius\Desktop\Lista_2_CVSDS\Lista2_ex8_CVSDS\Lista2_ex8_CVSDS\obj\Debug\Lista2_ex8_CVSDS.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Desktop\Lista_2_CVSDS\Lista2_ex8_CVSDS\Lista2_ex8_CVSDS\obj\Debug\Lista2_ex8_CVSDS.exe
+C:\Users\Vinicius\Desktop\Lista_2_CVSDS\Lista2_ex8_CVSDS\Lista2_ex8_CVSDS\obj\Debug\Lista2_ex8_CVSDS.pdb
+J:\Lista_2_CVSDS\Lista2_ex8_CVSDS\Lista2_ex8_CVSDS\bin\Debug\Lista2_ex8_CVSDS.exe.config
+J:\Lista_2_CVSDS\Lista2_ex8_CVSDS\Lista2_ex8_CVSDS\obj\Debug\Lista2_ex8_CVSDS.exe
+J:\Lista_2_CVSDS\Lista2_ex8_CVSDS\Lista2_ex8_CVSDS\obj\Debug\Lista2_ex8_CVSDS.pdb
+J:\Lista_2_CVSDS\Lista2_ex8_CVSDS\Lista2_ex8_CVSDS\bin\Debug\Lista2_ex8_CVSDS.exe
+J:\Lista_2_CVSDS\Lista2_ex8_CVSDS\Lista2_ex8_CVSDS\bin\Debug\Lista2_ex8_CVSDS.pdb
+J:\Lista_2_CVSDS\Lista2_ex8_CVSDS\Lista2_ex8_CVSDS\obj\Debug\Lista2_ex8_CVSDS.csprojResolveAssemblyReference.cache

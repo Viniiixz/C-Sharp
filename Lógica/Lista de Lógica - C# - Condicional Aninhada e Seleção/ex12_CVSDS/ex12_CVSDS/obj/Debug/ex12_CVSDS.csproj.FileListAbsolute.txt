@@ -1,0 +1,9 @@
+J:\Tec. de programação\Lista3_CVSDS\ex12_CVSDS\ex12_CVSDS\bin\Debug\ex12_CVSDS.exe.config
+J:\Tec. de programação\Lista3_CVSDS\ex12_CVSDS\ex12_CVSDS\bin\Debug\ex12_CVSDS.exe
+J:\Tec. de programação\Lista3_CVSDS\ex12_CVSDS\ex12_CVSDS\bin\Debug\ex12_CVSDS.pdb
+J:\Tec. de programação\Lista3_CVSDS\ex12_CVSDS\ex12_CVSDS\obj\Debug\ex12_CVSDS.csprojResolveAssemblyReference.cache
+J:\Tec. de programação\Lista3_CVSDS\ex12_CVSDS\ex12_CVSDS\obj\Debug\ex12_CVSDS.exe
+J:\Tec. de programação\Lista3_CVSDS\ex12_CVSDS\ex12_CVSDS\obj\Debug\ex12_CVSDS.pdb
+G:\Tec. de programação\Lista3_CVSDS\ex12_CVSDS\ex12_CVSDS\bin\Debug\ex12_CVSDS.exe.config
+G:\Tec. de programação\Lista3_CVSDS\ex12_CVSDS\ex12_CVSDS\obj\Debug\ex12_CVSDS.exe
+G:\Tec. de programação\Lista3_CVSDS\ex12_CVSDS\ex12_CVSDS\obj\Debug\ex12_CVSDS.pdb

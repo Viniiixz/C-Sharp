@@ -1,0 +1,8 @@
+C:\Users\Aluno\Desktop\Lista_2_CVSDS\Lista2_ex5_CV\Lista2_ex5_CV\bin\Debug\Lista2_ex5_CV.exe.config
+C:\Users\Aluno\Desktop\Lista_2_CVSDS\Lista2_ex5_CV\Lista2_ex5_CV\bin\Debug\Lista2_ex5_CV.exe
+C:\Users\Aluno\Desktop\Lista_2_CVSDS\Lista2_ex5_CV\Lista2_ex5_CV\bin\Debug\Lista2_ex5_CV.pdb
+C:\Users\Aluno\Desktop\Lista_2_CVSDS\Lista2_ex5_CV\Lista2_ex5_CV\obj\Debug\Lista2_ex5_CV.exe
+C:\Users\Aluno\Desktop\Lista_2_CVSDS\Lista2_ex5_CV\Lista2_ex5_CV\obj\Debug\Lista2_ex5_CV.pdb
+E:\Lista_2_CVSDS\Lista2_ex5_CVSDS\Lista2_ex5_CV\bin\Debug\Lista2_ex5_CV.exe.config
+E:\Lista_2_CVSDS\Lista2_ex5_CVSDS\Lista2_ex5_CV\obj\Debug\Lista2_ex5_CV.exe
+E:\Lista_2_CVSDS\Lista2_ex5_CVSDS\Lista2_ex5_CV\obj\Debug\Lista2_ex5_CV.pdb

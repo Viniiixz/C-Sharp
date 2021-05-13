@@ -1,0 +1,5 @@
+G:\Tec. de programação\Lista3_CVSDS\ex20_CVSDS\ex20_CVSDS\bin\Debug\ex20_CVSDS.exe.config
+G:\Tec. de programação\Lista3_CVSDS\ex20_CVSDS\ex20_CVSDS\bin\Debug\ex20_CVSDS.exe
+G:\Tec. de programação\Lista3_CVSDS\ex20_CVSDS\ex20_CVSDS\bin\Debug\ex20_CVSDS.pdb
+G:\Tec. de programação\Lista3_CVSDS\ex20_CVSDS\ex20_CVSDS\obj\Debug\ex20_CVSDS.exe
+G:\Tec. de programação\Lista3_CVSDS\ex20_CVSDS\ex20_CVSDS\obj\Debug\ex20_CVSDS.pdb
