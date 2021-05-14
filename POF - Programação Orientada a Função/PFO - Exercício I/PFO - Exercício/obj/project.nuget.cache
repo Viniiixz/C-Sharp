@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ttjDGVOWOzCUsffj+LMXNQi9bqYdlrmkjGfmgJzpUuy4W2vBVQUnVQhBcjBThsTUJojPSnindAcOqP+VfRedg==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos GitHub\\C-Sharp\\POF - Programação Orientada a Função\\PFO - Exercício I\\PFO - Exercício\\PFO - Exercício.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos Vinícius\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

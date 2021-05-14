@@ -1,0 +1,13 @@
+D:\Projetos GitHub\C-Sharp\POF - Programação Orientada a Função\PFO - Exercício I\PFO - Exercício\bin\Debug\netcoreapp3.1\PFO - Exercício.exe
+D:\Projetos GitHub\C-Sharp\POF - Programação Orientada a Função\PFO - Exercício I\PFO - Exercício\bin\Debug\netcoreapp3.1\PFO - Exercício.deps.json
+D:\Projetos GitHub\C-Sharp\POF - Programação Orientada a Função\PFO - Exercício I\PFO - Exercício\bin\Debug\netcoreapp3.1\PFO - Exercício.runtimeconfig.json
+D:\Projetos GitHub\C-Sharp\POF - Programação Orientada a Função\PFO - Exercício I\PFO - Exercício\bin\Debug\netcoreapp3.1\PFO - Exercício.runtimeconfig.dev.json
+D:\Projetos GitHub\C-Sharp\POF - Programação Orientada a Função\PFO - Exercício I\PFO - Exercício\bin\Debug\netcoreapp3.1\PFO - Exercício.dll
+D:\Projetos GitHub\C-Sharp\POF - Programação Orientada a Função\PFO - Exercício I\PFO - Exercício\bin\Debug\netcoreapp3.1\PFO - Exercício.pdb
+D:\Projetos GitHub\C-Sharp\POF - Programação Orientada a Função\PFO - Exercício I\PFO - Exercício\obj\Debug\netcoreapp3.1\PFO - Exercício.csprojAssemblyReference.cache
+D:\Projetos GitHub\C-Sharp\POF - Programação Orientada a Função\PFO - Exercício I\PFO - Exercício\obj\Debug\netcoreapp3.1\PFO - Exercício.AssemblyInfoInputs.cache
+D:\Projetos GitHub\C-Sharp\POF - Programação Orientada a Função\PFO - Exercício I\PFO - Exercício\obj\Debug\netcoreapp3.1\PFO - Exercício.AssemblyInfo.cs
+D:\Projetos GitHub\C-Sharp\POF - Programação Orientada a Função\PFO - Exercício I\PFO - Exercício\obj\Debug\netcoreapp3.1\PFO - Exercício.csproj.CoreCompileInputs.cache
+D:\Projetos GitHub\C-Sharp\POF - Programação Orientada a Função\PFO - Exercício I\PFO - Exercício\obj\Debug\netcoreapp3.1\PFO - Exercício.dll
+D:\Projetos GitHub\C-Sharp\POF - Programação Orientada a Função\PFO - Exercício I\PFO - Exercício\obj\Debug\netcoreapp3.1\PFO - Exercício.pdb
+D:\Projetos GitHub\C-Sharp\POF - Programação Orientada a Função\PFO - Exercício I\PFO - Exercício\obj\Debug\netcoreapp3.1\PFO - Exercício.genruntimeconfig.cache
