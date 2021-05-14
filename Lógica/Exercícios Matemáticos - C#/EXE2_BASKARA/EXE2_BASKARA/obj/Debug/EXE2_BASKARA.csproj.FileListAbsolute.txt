@@ -1,0 +1,6 @@
+C:\Users\Aluno\Desktop\EXE_SALA\EXE2_BASKARA\EXE2_BASKARA\bin\Debug\EXE2_BASKARA.exe.config
+C:\Users\Aluno\Desktop\EXE_SALA\EXE2_BASKARA\EXE2_BASKARA\bin\Debug\EXE2_BASKARA.exe
+C:\Users\Aluno\Desktop\EXE_SALA\EXE2_BASKARA\EXE2_BASKARA\bin\Debug\EXE2_BASKARA.pdb
+C:\Users\Aluno\Desktop\EXE_SALA\EXE2_BASKARA\EXE2_BASKARA\obj\Debug\EXE2_BASKARA.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\EXE_SALA\EXE2_BASKARA\EXE2_BASKARA\obj\Debug\EXE2_BASKARA.exe
+C:\Users\Aluno\Desktop\EXE_SALA\EXE2_BASKARA\EXE2_BASKARA\obj\Debug\EXE2_BASKARA.pdb
